@@ -1,34 +1,25 @@
-# Hi there, I'm [Your Name]!
+# Hi there, I'm Teddy!
 
 Welcome to my GitHub profile!
 
 ## About Me
 
-I'm a passionate [Your Profession or Field] with interests in:
+I'm a passionate develop application and program with interests in:
 
-- [Skill or Interest #1]
-- [Skill or Interest #2]
-- [Skill or Interest #3]
+- Fullstack and Backend Developer
+- IoT and Automatic devices
+- Bitcoin and technology build in bitcoin
 
 I love building projects that solve real-world problems and help me learn something new every day.
 
 ## Technologies I Use
 
-- **Languages:** [e.g., Python, JavaScript, C++]
-- **Frameworks & Tools:** [e.g., React, Node.js, Flask, Django, Docker]
-- **Other Skills:** [e.g., Git, Linux, REST APIs, CI/CD]
-
-## Projects
-
-Here are some things I've been working on:
-
-- [Project 1 Name](GitHub Link) - Brief description of what it does.
-- [Project 2 Name](GitHub Link) - Brief description of the technologies used.
+- **Languages:** Python, JavaScript, C, C++, Java, R
+- **Frameworks & Tools:** React, Expressjs, Node.js, Flask, Docker
+- **Other Skills:** Git, Linux, REST APIs
 
 ## Let's Connect
 
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: [youremail@example.com](mailto:youremail@example.com)
-
+- GitHub: [github.com/gmajorseven](https://github.com/gmajorseven)
+- Email: [guide.band8@gmail.com]
 Thanks for visiting my profile!

@@ -21,5 +21,5 @@ I love building projects that solve real-world problems and help me learn someth
 ## Let's Connect
 
 - GitHub: [github.com/gmajorseven](https://github.com/gmajorseven)
-- Email: [guide.band8@gmail.com]
+- Email: [guide.band8@gmail.com] [terdsak.tb@gmail.com]  
 Thanks for visiting my profile!

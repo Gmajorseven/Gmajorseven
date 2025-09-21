@@ -14,8 +14,9 @@ I love building projects that solve real-world problems and help me learn someth
 
 ## Technologies I Use
 
-- **Languages:** Python, JavaScript, C, C++, Java, PHP, AL
+- **Languages:** Python, JavaScript, C, C++, PHP, AL
 - **Frameworks & Tools:** React, Expressjs, Node.js, Flask, Docker
+- **Database:** SQL: MySql, Sqlite, No-SQL: MongoDB
 - **Other Skills:** Git, Linux, REST APIs
 
 ## Let's Connect
